@@ -1,0 +1,24 @@
+{
+  "name": "@types/paypal__checkout-server-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrAnwar/types-paypal__checkout-server-sdk.git"
+  },
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmrAnwar/types-paypal__checkout-server-sdk/issues"
+  },
+  "homepage": "https://github.com/AmrAnwar/types-paypal__checkout-server-sdk#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
